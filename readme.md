@@ -3,6 +3,7 @@ Firstly, please download Llama-2-7b-chat-hf and place the folder inside the "NLP
 To train the model:
 `
     cd rephrasing_net
+    
     python train_7b.py
 `
 To test the model:
